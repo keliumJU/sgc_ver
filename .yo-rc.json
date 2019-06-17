@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "sgcV",
+    "packageName": "com.itp.sgc",
+    "packageFolder": "com/itp/sgc",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.0",
+    "jwtSecretKey": "MGY5OTk5ZjQxMzViMDUzMjNmYTA5OTk2OTU5M2YzYmU2NGNiNWU3MzY2ZDQ4ZTQxYWQ5YTQ0YzEzMmZjZGY1ZTNhZjUwYzZiMjdkMzhmYTE3OTkzM2Y1YzQ0NjFmNjMzYjAxMjE0NTRjNTdjMGU5NGQ4MGY2OTkwMTI1ZWYzOGU=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "keliumJU",
+  "repository-name": "sgc_ver"
+}
